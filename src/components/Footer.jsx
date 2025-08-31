@@ -113,7 +113,7 @@ const Footer = () => {
               <div className="flex items-center">
                 <FaEnvelope className="text-indigo-400 text-lg mr-3 flex-shrink-0" />
                 <a href="mailto:info@yourbusiness.com" className="text-gray-400 hover:text-white transition duration-300 text-sm">
-                  websolution@info.com
+                  webDevsolution@info.com
                 </a>
               </div>
             </div>
